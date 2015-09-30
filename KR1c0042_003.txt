@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 待軒詩記
-#+DATE: 2015-09-23 09:36:59
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:06:02.521048
+#+PROPERTY: ID KR1c0042
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1c0042_WYG_003-1a>¶
 欽定四庫全書¶
 　待軒詩記卷三¶
@@ -1370,4 +1372,3 @@
 　¶
 　¶
 　待軒詩記卷三¶
-
